@@ -1,0 +1,92 @@
+@font-face {
+    font-family: "box";
+    src: url("/fonts/Inter.ttf");
+}
+
+body {
+    background-color: #1E1E1E;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "box";
+    line-height: 19.36px;
+    color: #000000;
+    margin-left: 38px;
+}
+
+h2 {
+    width: 494px;
+    height: 19px;
+   font-weight: 700;
+   font-family: "box";
+   font-size: 20px;
+   line-height: 24.2px; 
+   color: #000000;
+   margin-left: 37px;
+}
+
+.header1 {
+    width: 231px;
+    height: 19px;
+    margin-top: 54px;
+    margin-left: 604px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+}
+
+.p1 {
+    width: 1345px;
+    height: 158px;
+    margin-top: 18px;
+    margin-left: 39px;
+    margin-right: 56px;   
+}
+
+.h2{
+    margin-left: 38px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+} 
+
+.p2 {
+    width: 1363px;
+    height: 202px;
+    margin-top: 12px;
+}
+
+.h3 {
+    margin-top: 44px;
+}
+
+.p3 {
+    width: 1349px;
+    height: 167px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
+
+.h3 {
+    margin-top: 32px;
+    margin-bottom: 0px;
+}
+
+.p4 {
+    width: 1327px;
+    height: 212px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
+
+.h4 {
+    margin-top: 27px;
+    margin-bottom: 12px;
+}
+
+.p5 {
+    width: 1328px;
+    height: 212px;
+    margin-top: 0px;
+}
