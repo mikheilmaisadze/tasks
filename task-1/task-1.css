@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "box";
+    src: url("inter.ttf");
+}
+
+body {
+    padding: 39px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "box";
+    line-height: 19.36px;
+    color: #000000;
+
+}
+
+h2 {
+    width: 494px;
+    height: 19px;
+   font-weight: 700;
+   font-family: "box";
+   font-size: 20px;
+   line-height: 24.2px; 
+   color: #000000;
+}
+
+.header1 {
+    width: 231px;
+    height: 19px;
+    margin-top: 54px;
+    margin-left: 604px;
+    font-family: "box";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+}
+
+
+.h2{
+    margin: top 25px;
+    
+} 
+
+.p1 {
+max-width: 1345px;
+margin-top: 18px;
+}
+
+.p2 {
+    max-width: 1363px;
+    margin-top: 12px;
+}
+
+.h3 {
+    margin-top: 44px;
+}
+
+.p3 {
+    max-width: 1349px;
+    margin-top: 12px;
+}
+
+.h4 {
+    margin-top: 32px;
+    
+}
+
+.p4 {
+max-width: 1327px;
+margin-top: 12px;
+}
+
+.h5 {
+    
+    margin-top: 27px;
+}
+
+.p5 {
+    
+    max-width: 1318px;
+    margin-top: 12px;
+}
